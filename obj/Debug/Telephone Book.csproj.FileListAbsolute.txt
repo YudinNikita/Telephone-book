@@ -1,0 +1,11 @@
+D:\download\C#\Telephone Book\bin\Debug\Telephone Book.exe.config
+D:\download\C#\Telephone Book\bin\Debug\Telephone Book.exe
+D:\download\C#\Telephone Book\bin\Debug\Telephone Book.pdb
+D:\download\C#\Telephone Book\obj\Debug\Telephone Book.csproj.AssemblyReference.cache
+D:\download\C#\Telephone Book\obj\Debug\Telephone Book.csproj.SuggestedBindingRedirects.cache
+D:\download\C#\Telephone Book\obj\Debug\Telephone_Book.TelephoneBook.resources
+D:\download\C#\Telephone Book\obj\Debug\Telephone_Book.Properties.Resources.resources
+D:\download\C#\Telephone Book\obj\Debug\Telephone Book.csproj.GenerateResource.cache
+D:\download\C#\Telephone Book\obj\Debug\Telephone Book.csproj.CoreCompileInputs.cache
+D:\download\C#\Telephone Book\obj\Debug\Telephone Book.exe
+D:\download\C#\Telephone Book\obj\Debug\Telephone Book.pdb
